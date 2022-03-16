@@ -289,7 +289,7 @@ c) Click on Add New Site -> Import an Existing Project -> From Github .
 d) Search for the Github repository to be imported.
 e) Select it . You will be redirected to define the deploy settings required for it. In that click on advanced settings and make these changes as mentioned below
 
-![S4 P3](https://user-images.githubusercontent.com/76832165/158252821-fafe7cac-34af-4be5-9695-dde7830cfe87.png)
+![S4 P3](https://user-images.githubusercontent.com/76832165/158570020-00403ac1-4093-4b9b-b273-ada76069f32f.png)
 
 f) Click on Deploy Site for deploying it.
 
