@@ -21,6 +21,7 @@ This document lists down the steps one can use to get started with the utilisati
 
 We will be making a simple React application using Mockbee and Mockman that will have the ability to route between two components Home and Mockman and deploy the working on Netlify.
 
+
 ### STEP 1: Making the repository on Github:
 
 a) Go to your [Github homepage](https://github.com) and click on the New button to create a repository.
@@ -267,6 +268,8 @@ git push origin BRANCH_NAME
 
 If you aren't signed in to your Github from CLI then an error might come up for which a fix can be found [here](https://www.digitalocean.com/community/questions/github-https-push-403-error)
 And then a window popup comes up that prompts you to enter the signup details of Github
+
+
 ![S3 P1](https://user-images.githubusercontent.com/76832165/158247572-9cdc2a1d-724c-4234-bc49-57afb9c182e1.png)
 
 
@@ -274,16 +277,20 @@ So you can signup from here and then push the changes. Now you can view the gith
 
 ## STEP 4: Changes to be made on Deploy Settings of Netlify.
 
-a) Go to [S4 P1](https://netlify.com) and login to your account there.
+a) Go to [Netlify](https://netlify.com) and login to your account there.
 
 b) You will be redirected to the dashboard of your Netlify account giving an overview of the existing projects so there you can click on this option
+
 ![S4 P2](https://user-images.githubusercontent.com/76832165/158250372-5d115513-27ec-42c2-8b4b-1399b7018a64.png)
+
+
 c) Click on Add New Site -> Import an Existing Project -> From Github .
 
 d) Search for the Github repository to be imported.
 e) Select it . You will be redirected to define the deploy settings required for it. In that click on advanced settings and make these changes as mentioned below
 
 ![S4 P3](https://user-images.githubusercontent.com/76832165/158252821-fafe7cac-34af-4be5-9695-dde7830cfe87.png)
+
 f) Click on Deploy Site for deploying it.
 
 Here is the resulting Deploy:
