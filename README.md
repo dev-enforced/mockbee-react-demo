@@ -102,6 +102,11 @@ a) On the IDE you can open a new terminal there itself and type the command ment
 
 ```js
 npx create-mock-backend
+
+OR 
+
+npx create-react-app <name-of-your-app> --template mockbee-[project-template-here]
+[See this link for more](npx create-react-app my-app --template mockbee-[project-name-here])
 ```
 
 b) Decide the name and template your application is going to use.
