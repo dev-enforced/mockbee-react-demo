@@ -106,7 +106,7 @@ npx create-mock-backend
 OR 
 
 npx create-react-app <name-of-your-app> --template mockbee-[project-template-here]
-[See this link for more](npx create-react-app my-app --template mockbee-[project-name-here])
+(See this link for more)[https://mockbee.netlify.app/docs/installation#approach-1-mockbee-20-cra-templates]
 ```
 
 b) Decide the name and template your application is going to use.
